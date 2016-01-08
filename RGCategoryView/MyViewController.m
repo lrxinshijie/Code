@@ -28,7 +28,7 @@
     // Do any additional setup after loading the view.
     array= @[@{@"image":@"11.png",@"name":@"手机"},@{@"image":@"12.png",@"name":@"手机"},@{@"image":@"13.png",@"name":@"手机"},@{@"image":@"14.png",@"name":@"手机"},@{@"image":@"15.png",@"name":@"手机"},@{@"image":@"16.png",@"name":@"手机",},@{@"image":@"11.png",@"name":@"手机"},@{@"image":@"12.png",@"name":@"手机"},@{@"image":@"13.png",@"name":@"手机"},@{@"image":@"14.png",@"name":@"手机"},@{@"image":@"15.png",@"name":@"手机"},@{@"image":@"16.png",@"name":@"手机",}];
     
-    titleArray=@[@"水果",@"数码",@"分类1" ];
+    titleArray=@[@"水果",@"数码",@"分类1222" ];
     
     
     
